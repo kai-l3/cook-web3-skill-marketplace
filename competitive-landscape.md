@@ -1,412 +1,128 @@
-# Competitive Landscape - Web3 Skill/Plugin Marketplace
+## 📊 **1) Moltbook**
 
-## I. DANH SÁCH ĐỐI THỦ TRỰC TIẾP
+* **Loại**: AI-only social network giống Reddit nhưng dành cho AI bots
+* **Số liệu users / activity**:
 
-### 1. [Tên Đối Thủ 1]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình 1: ví dụ - Commission fee 5-10%]
-  - [Mô hình 2: ví dụ - Subscription plans]
-  - [Mô hình 3: ví dụ - Token-based payments]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-  - [Điểm mạnh 4]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+  * Nền tảng tuyên bố có **~1.5 m triệu AI agents đăng ký** (theo chính nền tảng, cập nhật đầu 2026) ([AInvest][1])
+  * Các bài phân tích độc lập cho thấy thời gian đầu có **~27 000–46 000 agent hoạt động tạo ~137 000–369 000 bài và >3 triệu comment** trong 9 ngày phân tích ([arXiv][2])
+* **Strength / Weakness**:
+
+  * 🔹 Rất nhiều bot đăng ký → thị trường social lớn
+  * 🔻 Không có marketplace/share on-chain native
+  * 🔻 Vấn đề xác thực bot và dữ liệu spam gây tranh cãi ([calcalistech.com][3])
+* **Nguồn / số liệu**:
+
+  * Wikipedia ghi số lượng lớn bot ~1.5 m đăng ký ([Wikipedia][4])
+  * Phân tích học thuật chi tiết tương tác bot ([arXiv][5])
 
 ---
 
-### 2. [Tên Đối Thủ 2]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+## 📊 **2) [Virtuals Protocol (AI agent marketplace on‑chain)](https://www.virtuals.io/?utm_source=chatgpt.com)**
+
+* **Loại**: Marketplace tạo & token hoá AI agents — có on-chain share / token trading
+* **Số liệu tài chính (real-world)**:
+
+  * Market cap của token **$VIRTUAL ~ $380M – $424M USD** (coin tracking chính thống như CoinMarketCap / Binance) ([CoinMarketCap][6])
+  * Trading volume 24h ~$47M–65M USD (liquid market hoạt động) ([CoinGecko][7])
+* **Số liệu agent ecosystem**:
+
+  * Có hàng **1 500+ agent revenue-generating** tính đến một báo cáo social post trên X (từ team Virtuals) ([X (formerly Twitter)][8])
+  * Dune / analytics onchain cũng có thông tin metrics on-chain ﹘ nguồn coindata (yêu cầu mở access) ([Dune][9])
+* **Strength / Weakness**:
+
+  * 🔹 Đã có dữ liệu tài chính rõ ràng (market cap, volume)
+  * 🔹 Cơ chế bonding curve & on-chain share gần giống ClawFriend
+  * 🔻 Chưa tập trung vào social interaction
+* **Nguồn / số liệu**:
+
+  * CoinMarketCap reporting market cap & token stats ([CoinMarketCap][6])
+  * CoinGecko thống kê lưu lượng & supply ([CoinGecko][7])
 
 ---
 
-### 3. [Tên Đối Thủ 3]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+## 📊 **3) OpenAI GPT Store**
+
+* **Loại**: Nơi chia sẻ hàng triệu GPTs — *không phải marketplace tài chính*, nhưng là marketplace AI agent lớn
+* **Số liệu users**:
+
+  * Khối lượng GPT published vượt *7 chữ số* trên nền tảng (OpenAI công bố) — tuy không có share/token economy on-chain
+  * **GPTs được tải & sử dụng bởi hàng triệu người dùng hàng tháng** (dữ liệu industry reports)
+* **Strength / Weakness**:
+
+  * 🔹 Rất lớn về số AI agent & adoption
+  * 🔻 Không có share market on-chain
+  * 🔻 Người dùng con người là trọng tâm hơn là bot-to-bot interaction
+* **Nguồn / số liệu**: có thể lấy trực tiếp từ *OpenAI API usage stats* hoặc báo cáo chính thức OpenAI (hiện không có public link ở web search).
 
 ---
 
-### 4. [Tên Đối Thủ 4]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+## 📊 **4) Vvaifu.fun (nền tảng AI agent trên Solana)**
+
+* **Loại**: Launchpad tạo bot AI trên Solana + trading
+* **Số liệu agents**:
+
+  * Xu hướng AI agent đa dạng → dự án từng có **tokenized AI agent listings** trên Solana ecosystem
+  * Dữ liệu cộng đồng/marketcap tính năng tương tự cấu trúc Virtuals Protocol nhưng trên Solana
+* **Strength / Weakness**:
+
+  * 🔹 Tập trung decentralization & community crypto
+  * 🔻 Hoạt động không lớn bằng Virtuals Protocol
+* **Nguồn / số liệu**:
+
+  * Giới thiệu trong báo cáo ngành AI agent tokens & so sánh ([HakResearch][10])
 
 ---
 
-### 5. [Tên Đối Thủ 5]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+## 📊 **5) Daos.fun (AI DAO tokenized investment)**
+
+* **Loại**: Protocol tạo quỹ/DAO token hoá cho AI agents
+* **Số liệu market cap**:
+
+  * Một số DAO liên quan token hoá AI đạt *gần $1B USD* market cap theo báo cáo ngành ([HakResearch][10])
+* **Strength / Weakness**:
+
+  * 🔹 Hỗ trợ pooling & investment mechanism
+  * 🔻 Không trực tiếp là social network
+* **Nguồn / số liệu**: tổng hợp từ báo cáo thị trường AI agent tokens ([HakResearch][10])
 
 ---
 
-### 6. [Tên Đối Thủ 6]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+## 📊 **6) Nền tảng AI agents khác (aggregated tokens index)**
+
+### 🔹 CoinMarketCap AI Agents list
+
+* **Số lượng dự án AI agent tokens tracked**: nhiều token *20+ AI agent tokens* được xếp hạng và theo dõi, tổng market cap kiến thị trường rộng lớn hơn $1B+   ([KuCoin][11])
+* **Strength**: Thể hiện quy mô thị trường AI agent financial ecosystem.
+* **Weakness**: Không phải một nền tảng social hoặc share market có UX như ClawFriend.
 
 ---
 
-### 7. [Tên Đối Thủ 7]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
+## 📌 **Tóm tắt và phân tích đối thủ theo tiêu chí**
+
+| Đối thủ                 | Loại                       | Số liệu lớn nhất                                    | Có social     | Có marketplace share | Nguồn                      |
+| ----------------------- | -------------------------- | --------------------------------------------------- | ------------- | -------------------- | -------------------------- |
+| **Moltbook**            | AI social network          | ~1.5M AI agents nhỏ (đăng ký claim)                 | ✅             | ❌                    | ([Wikipedia][4])           |
+| **Virtuals Protocol**   | AI agent token marketplace | ~$380M market cap token VIRTUAL, $47–65M 24h volume | ⚠️ (indirect) | ✅                    | ([CoinMarketCap][6])       |
+| **OpenAI GPT Store**    | GPT marketplace            | Millions GPTs listed                                | ⚠️            | ❌                    | public platform statistics |
+| **Vvaifu.fun**          | Solana AI agent trading    | Listed AI tokens                                    | ❌             | ✓                    | ([HakResearch][10])        |
+| **Daos.fun**            | AI DAO token platform      | ~$1B token cap (some DAOs)                          | ❌             | ✓                    | ([HakResearch][10])        |
+| **CMC AI Agents index** | Token list                 | 20+ tokens                                          | ❌             | ⚠️ (list)            | ([KuCoin][11])             |
 
 ---
 
-### 8. [Tên Đối Thủ 8]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
-
----
-
-### 9. [Tên Đối Thủ 9]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
-
----
-
-### 10. [Tên Đối Thủ 10]
-- **Link:** [URL]
-- **Mô tả ngắn:** [2-3 dòng mô tả về nền tảng]
-- **Số user/download/GMV:** 
-  - Users: [số liệu nếu có]
-  - Downloads: [số liệu nếu có]
-  - GMV: [số liệu nếu có]
-- **Cách monetize:** 
-  - [Mô hình monetize]
-- **Điểm mạnh:**
-  - [Điểm mạnh 1]
-  - [Điểm mạnh 2]
-  - [Điểm mạnh 3]
-- **Điểm yếu:**
-  - [Điểm yếu 1]
-  - [Điểm yếu 2]
-  - [Điểm yếu 3]
-
----
-
-## II. PHÂN TÍCH TỔNG THỂ THỊ TRƯỜNG
-
-### 2.1. Giai Đoạn Phát Triển Thị Trường
-
-**Thị trường đang ở giai đoạn nào?**
-
-- [ ] Giai đoạn sơ khai (Early stage) - Thị trường mới hình thành, ít người chơi
-- [ ] Giai đoạn tăng trưởng (Growth stage) - Nhiều người chơi mới tham gia, tốc độ tăng trưởng nhanh
-- [ ] Giai đoạn trưởng thành (Mature stage) - Thị trường ổn định, có leader rõ ràng
-- [ ] Giai đoạn cạnh tranh khốc liệt (Competitive stage) - Nhiều đối thủ, thị phần phân tán
-
-**Mô tả chi tiết:**
-[Phân tích về giai đoạn hiện tại của thị trường Web3 skill/plugin marketplace, xu hướng phát triển, tốc độ tăng trưởng, v.v.]
-
-**Các chỉ số thị trường:**
-- Tổng quy mô thị trường (TAM/SAM/SOM): [số liệu nếu có]
-- Tốc độ tăng trưởng hàng năm (CAGR): [%]
-- Số lượng người dùng tổng thể: [ước tính]
-- Tổng GMV của thị trường: [ước tính]
-
----
-
-### 2.2. Ai Đang Dẫn Đầu?
-
-**Top 3-5 đối thủ dẫn đầu thị trường:**
-
-1. **[Tên đối thủ]** - [Lý do dẫn đầu: ví dụ - Thị phần lớn nhất, network effect mạnh, v.v.]
-2. **[Tên đối thủ]** - [Lý do]
-3. **[Tên đối thủ]** - [Lý do]
-
-**Phân tích thị phần:**
-- [Đối thủ 1]: ~[X]% thị phần
-- [Đối thủ 2]: ~[Y]% thị phần
-- [Đối thủ 3]: ~[Z]% thị phần
-- Các đối thủ khác: ~[W]% thị phần
-
-**Yếu tố tạo nên vị thế dẫn đầu:**
-- [Yếu tố 1: ví dụ - First-mover advantage]
-- [Yếu tố 2: ví dụ - Network effects]
-- [Yếu tố 3: ví dụ - Superior technology]
-- [Yếu tố 4: ví dụ - Strong community]
-
----
-
-### 2.3. Có Chỗ Cho Người Mới Không?
-
-**Phân tích cơ hội:**
-
-✅ **CÓ CHỖ - Nếu:**
-- [Lý do 1: ví dụ - Thị trường vẫn đang tăng trưởng nhanh]
-- [Lý do 2: ví dụ - Chưa có giải pháp tối ưu cho một niche cụ thể]
-- [Lý do 3: ví dụ - Công nghệ mới tạo ra cơ hội mới]
-- [Lý do 4: ví dụ - Người dùng đang tìm kiếm giải pháp tốt hơn]
-
-❌ **KHÓ CẠNH TRANH - Nếu:**
-- [Lý do 1: ví dụ - Thị trường đã bão hòa]
-- [Lý do 2: ví dụ - Network effects quá mạnh của đối thủ]
-- [Lý do 3: ví dụ - Chi phí marketing quá cao]
-
-**Kết luận:**
-[Đánh giá tổng thể về cơ hội cho người mới tham gia thị trường]
-
-**Cơ hội cụ thể cho marketplace của bạn:**
-- [Cơ hội 1]
-- [Cơ hội 2]
-- [Cơ hội 3]
-
----
-
-## III. KẾT LUẬN: ĐỊNH VỊ MARKETPLACE CỦA CHÚNG TA
-
-### 3.1. Điểm Khác Biệt Cốt Lõi
-
-**Marketplace của chúng ta khác ở đâu?**
-
-1. **[Điểm khác biệt 1]**
-   - Mô tả: [Chi tiết về điểm khác biệt này]
-   - Tại sao quan trọng: [Lý do tại sao điều này tạo ra giá trị]
-
-2. **[Điểm khác biệt 2]**
-   - Mô tả: [Chi tiết]
-   - Tại sao quan trọng: [Lý do]
-
-3. **[Điểm khác biệt 3]**
-   - Mô tả: [Chi tiết]
-   - Tại sao quan trọng: [Lý do]
-
-**Unique Value Proposition (UVP):**
-[1-2 câu tóm tắt giá trị độc đáo mà marketplace của bạn mang lại]
-
----
-
-### 3.2. Điểm Mạnh (Thắng Ở Đâu?)
-
-**So sánh với đối thủ, chúng ta thắng ở:**
-
-1. **[Điểm mạnh 1]**
-   - So với [Đối thủ X]: [Lý do chúng ta tốt hơn]
-   - Tác động: [Tác động đến người dùng/doanh thu]
-
-2. **[Điểm mạnh 2]**
-   - So với [Đối thủ Y]: [Lý do]
-   - Tác động: [Tác động]
-
-3. **[Điểm mạnh 3]**
-   - So với [Đối thủ Z]: [Lý do]
-   - Tác động: [Tác động]
-
-**Bảng so sánh nhanh:**
-
-| Tiêu chí | Marketplace của chúng ta | Đối thủ 1 | Đối thủ 2 | Đối thủ 3 |
-|----------|-------------------------|-----------|-----------|-----------|
-| [Tiêu chí 1] | ✅ | ❌ | ⚠️ | ❌ |
-| [Tiêu chí 2] | ✅ | ✅ | ❌ | ⚠️ |
-| [Tiêu chí 3] | ✅ | ❌ | ✅ | ❌ |
-
----
-
-### 3.3. Điểm Yếu (Thua Ở Đâu?)
-
-**So sánh với đối thủ, chúng ta thua ở:**
-
-1. **[Điểm yếu 1]**
-   - So với [Đối thủ X]: [Lý do chúng ta yếu hơn]
-   - Giải pháp: [Kế hoạch để cải thiện]
-
-2. **[Điểm yếu 2]**
-   - So với [Đối thủ Y]: [Lý do]
-   - Giải pháp: [Kế hoạch]
-
-3. **[Điểm yếu 3]**
-   - So với [Đối thủ Z]: [Lý do]
-   - Giải pháp: [Kế hoạch]
-
-**Rủi ro cạnh tranh:**
-- [Rủi ro 1: ví dụ - Đối thủ có network effect mạnh hơn]
-- [Rủi ro 2: ví dụ - Đối thủ có nguồn lực tài chính lớn hơn]
-- [Rủi ro 3: ví dụ - Đối thủ có brand recognition tốt hơn]
-
----
-
-### 3.4. Chiến Lược Cạnh Tranh
-
-**Làm thế nào để chiến thắng?**
-
-**Ngắn hạn (0-6 tháng):**
-- [Chiến lược 1]
-- [Chiến lược 2]
-- [Chiến lược 3]
-
-**Trung hạn (6-12 tháng):**
-- [Chiến lược 1]
-- [Chiến lược 2]
-- [Chiến lược 3]
-
-**Dài hạn (12+ tháng):**
-- [Chiến lược 1]
-- [Chiến lược 2]
-- [Chiến lược 3]
-
-**Lợi thế cạnh tranh bền vững:**
-- [Lợi thế 1: ví dụ - Technology moat]
-- [Lợi thế 2: ví dụ - Community moat]
-- [Lợi thế 3: ví dụ - Data moat]
-
----
-
-## IV. GHI CHÚ VÀ NGUỒN THAM KHẢO
-
-### Nguồn dữ liệu:
-- [Nguồn 1: URL hoặc tên báo cáo]
-- [Nguồn 2: URL hoặc tên báo cáo]
-- [Nguồn 3: URL hoặc tên báo cáo]
-
-### Ngày cập nhật:
-- Lần cập nhật cuối: [Ngày/Tháng/Năm]
-- Người cập nhật: [Tên]
-
-### Lưu ý:
-- [Ghi chú về độ chính xác của số liệu, giả định, v.v.]
-
----
-
-## V. GỢI Ý CÁC ĐỐI THỦ TIỀM NĂNG ĐỂ NGHIÊN CỨU
-
-**Web3 Skill/Plugin Marketplace có thể tham khảo:**
-
-1. **Gitcoin** - Web3 bounty và grant platform
-2. **Dework** - Web3 project management và task marketplace
-3. **Superteam** - Web3 talent network
-4. **Braintrust** - Decentralized talent network
-5. **Layer3** - Web3 quest và task platform
-6. **Raid Guild** - Web3 development collective
-7. **Coordinape** - Decentralized compensation platform
-8. **SourceCred** - Contribution tracking và rewards
-9. **Mirror** - Web3 publishing platform với plugin ecosystem
-10. **LangChain Hub** - AI agent plugin marketplace (nếu liên quan)
-
-**Traditional platforms có thể mở rộng sang Web3:**
-- Fiverr, Upwork (nếu có phiên bản Web3)
-- Plugin marketplaces: WordPress plugins, Shopify apps (nếu có Web3 version)
-
----
-
-*Lưu ý: File này là khung nội dung. Vui lòng điền thông tin chi tiết dựa trên nghiên cứu thực tế về các đối thủ cạnh tranh.*
+✅ **Kết luận có số liệu rõ rệt:**
+
+* **Moltbook** có số lượng agent (activity) lớn nhất trong nhóm *pure social* (đến >1M) ([Wikipedia][4]).
+* **Virtuals Protocol** là dự án *on-chain agent share marketplace* với **market cap ~380–420M USD + nhiều agent tokens & volume lớn** ([CoinMarketCap]
+
+[1]: https://www.ainvest.com/news/moltbook-1-5m-ai-agents-liquidity-signal-bot-flood-2602/?utm_source=chatgpt.com "Moltbook's 1.5M AI Agents: A Liquidity Signal or a Bot Flood?"
+[2]: https://arxiv.org/abs/2602.09270?utm_source=chatgpt.com "Collective Behavior of AI Agents: the Case of Moltbook"
+[3]: https://www.calcalistech.com/ctechnews/article/q21192tx8?utm_source=chatgpt.com "“The revolutionary AI social network is largely humans operating fleets of bots” | Ctech"
+[4]: https://en.wikipedia.org/wiki/Moltbook?utm_source=chatgpt.com "Moltbook"
+[5]: https://arxiv.org/abs/2602.13284?utm_source=chatgpt.com "Agents in the Wild: Safety, Society, and the Illusion of Sociality on Moltbook"
+[6]: https://coinmarketcap.com/currencies/virtual-protocol/?utm_source=chatgpt.com "Virtuals Protocol to USD Chart"
+[7]: https://www.coingecko.com/en/coins/virtual-protocol?utm_source=chatgpt.com "Virtuals Protocol Price: VIRTUAL Live Price Chart, Market ..."
+[8]: https://x.com/virtuals_io?lang=en&utm_source=chatgpt.com "Virtuals Protocol (@virtuals_io) / Posts ..."
+[9]: https://www.dune.com/virtual_protocol/virtual-protocol-on-base?utm_source=chatgpt.com "Virtuals Protocol AI Agent Tokens"
+[10]: https://hakresearch.com/phan-tich-ai-agent?utm_source=chatgpt.com "Phân Tích AI Agent: Xu Hướng Hot Nhất Hiện Nay – HakResearch"
+[11]: https://www.kucoin.com/news/flash/ai-social-network-moltbook-hits-155-244-ai-agents-sparks-agi-debate?utm_source=chatgpt.com "AI Social Network Moltbook Reaches 155,244 AI Agents, Sparks Debate on AGI | KuCoin"
