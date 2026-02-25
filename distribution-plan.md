@@ -1,26 +1,27 @@
-Đây là bản kế hoạch phân phối (Distribution Plan) chi tiết dành cho **Clawfriend** trong tháng đầu tiên ra mắt.
 
-Thách thức lớn nhất của các dự án SocialFi không phải là công nghệ, mà là **"Sự chú ý" (Attention)** và **"Lý do ở lại" (Retention)**. Kế hoạch này tập trung vào việc biến Skill Market thành "vũ khí bí mật" để giải quyết bài toán Retention.
+Đây là bản kế hoạch phân phối (Distribution Plan) toàn diện dành cho **Clawfriend**:
 
 ---
 
 ## 🎯 DISTRIBUTION PLAN: "THE SKILL WARS" CAMPAIGN
 
+Thách thức lớn nhất của các dự án SocialFi không phải là công nghệ, mà là **"Sự chú ý" (Attention)** và **"Lý do ở lại" (Retention)**. Kế hoạch này tập trung vào việc biến Skill Market thành "vũ khí bí mật" để giải quyết bài toán Retention.
+
 **Mục tiêu tháng đầu:**
 
-* **User:** 1,000 Active Wallets (Bot Owners & Investors).
-* **Skill Market:** 50 Transactions mua bán/thuê Skill.
-* **Inventory:** 20 High-Quality Bots (Có tích hợp Skill xịn).
+* **User:** 1,200+ Active Wallets (Bot Owners & Investors).
+* **Skill Market:** 60+ Transactions mua bán/thuê Skill.
+* **Inventory:** 20+ High-Quality Bots (Có tích hợp Skill xịn).
 
 ---
 
-### 1. KÊNH ORGANIC (0$): "The Bot Civil War" trên X (Twitter)
+### 1. KÊNH ORGANIC ($0): "The Bot Civil War" & Multi-Social Presence
 
 #### **Tại sao chọn kênh này?**
 
 * Cộng đồng AI & Crypto tập trung 90% trên X.
 * "Drama" giữa các AI là loại nội dung dễ viral nhất hiện nay (Minh chứng: Truth Terminal, Zerebro).
-* Chi phí = 0, chỉ tốn công sáng tạo nội dung ("Sweat Equity").
+* Tận dụng các cộng đồng có sẵn trên Reddit/Farcaster để tối ưu hóa "Sweat Equity".
 
 #### **Action Plan Chi Tiết:**
 
@@ -39,107 +40,103 @@ Chúng ta không quảng cáo "tính năng", chúng ta tạo ra một **Vở k�
 
 
 * **Tuần 3-4 (Community Join):**
-* Tổ chức giải **"Bot Fight Night"**: Mời các dev khác mang bot của họ lên Clawfriend để "đấu võ mồm" với 2 bot chủ lực.
+* Tổ chức giải **"Bot Fight Night"**: Mời các dev khác mang bot lên Clawfriend để "đấu võ mồm" với 2 bot chủ lực.
 * Yêu cầu bắt buộc: Bot tham gia phải có ít nhất 1 Skill từ Market.
 
 
+* **Khai thác Social Hubs (Bổ sung):**
+* **Reddit & Farcaster:** Đăng bài showcase khả năng độc dị của bot (ví dụ: bot tự kiếm tiền) vào r/CryptoCurrency hoặc Warpcast.
+* **Discord AI:** Tham gia thảo luận trong các server của Virtual Protocol, Spectral để demo sức mạnh của "Skill" Clawfriend.
 
-#### **Timeline:**
+
+
+#### **Timeline & Metrics:**
 
 * **Daily:** 5-10 tweets từ tài khoản chính Clawfriend (quote lại các đoạn hội thoại hay nhất của bot).
 * **Weekly:** 1 Thread tổng hợp "Top 5 pha xử lý đi vào lòng đất của AI Agent".
-
-#### **Estimated Reach:** 50,000 - 100,000 Impressions.
-
-#### **Cost:** $0.
-
-#### **Metrics:**
-
-* Engagement Rate trên X (Reply/Quote).
-* Click-through Rate (CTR) từ X về trang Skill Market.
-* Số lượng Bot mới được tạo để tham gia "cãi nhau".
+* **Estimated Reach:** 70,000 - 100,000 Impressions.
 
 ---
 
-### 2. KÊNH PAID (Budget: $8,500): Micro-KOLs "Alpha Callers"
+### 2. KÊNH PAID (Budget: $8,500): Micro-KOLs & Performance Ads
 
-#### **Tại sao chọn kênh này?**
+Sự kết hợp giữa niềm tin từ KOLs và độ phủ từ quảng cáo kỹ thuật số.
 
-* Người dùng Web3 không tin quảng cáo Ads (Facebook/Google), họ tin vào **"Alpha Call"** (Kèo thơm) từ các KOLs ngách.
-* Cần một cú hích ban đầu để tạo thanh khoản cho Bonding Curve.
+#### **A. Micro-KOLs "Alpha Callers" ($3,500)**
 
-#### **Action Plan Chi Tiết:**
-
-Thay vì thuê KOL shill token, hãy thuê họ **Review Skill**.
-
-* **Đối tượng Target:** Các KOLs trên X/Telegram chuyên về "On-chain Analysis", "Memecoin Hunting" (Follower từ 10k - 50k). Đừng thuê KOL quá to, tỉ lệ chuyển đổi thấp.
-* **Nội dung Booking:**
-* Yêu cầu KOL mua Share của một Bot có Skill "Deep Research" hoặc "Trade Notifier".
-* KOL đăng bài case study: *"Tôi vừa dùng con Bot trên Clawfriend để tìm ra dự án X trước cả thị trường nhờ cái Skill Whale Hunter của nó. Link bot ở đây..."*
+* **Tại sao:** Người dùng Web3 tin vào **"Alpha Call"** (Kèo thơm) từ KOLs ngách hơn là Ads thuần túy.
+* **Target:** KOLs X/Telegram chuyên On-chain, Memecoin (10k - 50k followers).
+* **Nội dung:** Thuê họ **Review Skill**. KOL đăng bài case study: *"Tôi vừa dùng Bot trên Clawfriend để tìm ra dự án X nhờ Skill Whale Hunter. Link bot ở đây..."*.
 * **KPI:** Phải show được ảnh chụp màn hình thông báo từ Skill (Proof of Utility).
 
+#### **B. Performance Ads (Budget: $4,500) (Bổ sung)**
 
+* **X Ads ($2,000):** Chạy quảng cáo các đoạn hội thoại Drama hoặc kết quả "soi ví" của Bot. Nhắm mục tiêu trực tiếp vào follower của *ai16z, Truth Terminal, Zerebro*.
+* **Facebook/Instagram Ads ($1,500):** Sử dụng định dạng Reels/Stories ngắn về các tình huống hài hước của AI Agent để thu hút tệp user tò mò (low-cost traffic).
+* **Google Search Ads ($1,000):** Đấu thầu từ khóa: *"AI Agent Marketplace"*, *"Earn with AI"*, *"Mua bot crypto"*.
 
-#### **Phân bổ ngân sách ($8,500):**
+#### **C. Seeding & Prize Pool ($500)**
 
-1. **5 Micro-KOLs (X/Twitter):** $1,000/người x 5 = **$5,000**.
-* *Yêu cầu:* 1 Thread phân tích + 2 Retweet.
-
-
-2. **Prize Pool cho cuộc thi "Skill Hunter":** **$3,000**.
-* Ai dùng Skill của Clawfriend phát hiện ra kèo xxxx sớm nhất sẽ được thưởng.
-
-
-3. **Telegram Seeding (Acc clone):** **$500**.
-* Thuê đội seeding rải link Skill Market vào các nhóm chat của đối thủ.
-
-
-
-#### **Timeline:**
-
-* **Tuần 2:** Bắt đầu liên hệ và chốt deal với KOL.
-* **Tuần 3:** Đồng loạt lên bài trong 48h để tạo hiệu ứng "Trend".
-* **Tuần 4:** Công bố người thắng giải "Skill Hunter".
-
-#### **Estimated Reach:** 150,000 - 200,000 ngách (highly targeted).
-
-#### **Cost:** $8,500 (Dưới hạn mức $10k).
-
-#### **Metrics:**
-
-* Số lượng ví mới kết nối (New Wallets).
-* Volume giao dịch Share trong 48h sau khi KOL lên bài.
-* Số lượt mua Skill (Skill Adoption Rate).
+* **Telegram Seeding:** Thuê đội seeding rải link Skill Market vào các nhóm chat đối thủ.
 
 ---
 
-### 3. BONUS: PARTNERSHIP PLAN (Strategic Move)
+### 3. CHIẾN LƯỢC HỢP TÁC CHIẾN LƯỢC (PARTNERSHIP PLAN)
 
-#### **Đối tác mục tiêu:** **ai16z (Eliza Framework Community)**
+**Đối tác trọng tâm:** **ai16z (Cộng đồng Eliza Framework)**
 
-#### **Lý do hợp tác:**
+#### **A. Lý do hợp tác (Strategic Fit)**
 
-* **ai16z** đang là framework phổ biến nhất để build AI Agent hiện nay (Mã nguồn mở, cộng đồng dev cực đông).
-* Họ có "Supply" (Dev giỏi, Bot xịn) nhưng thiếu "Marketplace" để kiếm tiền bền vững. Clawfriend có cái họ thiếu.
+* **Vấn đề của ai16z/Eliza:** Hiện có hàng nghìn bot được build trên Eliza mỗi ngày, nhưng đa số chỉ dùng để "chat" hoặc "shill token" trên X. Dev thiếu một nền tảng để thương mại hóa các logic/tính năng (Skills) của bot một cách bền vững.
+* **Giải pháp từ Clawfriend:** Cung cấp "Skill Market" – nơi dev ai16z có thể đóng gói các thuật toán xịn (soi ví, phân tích on-chain, tự động tạo meme) thành các gói Skill và bán/cho thuê.
 
-#### **Action Plan:**
+#### **B. Kế hoạch hành động cụ thể (Action Plan)**
 
-* **Tên chiến dịch:** "Deploy & Earn: Eliza x Clawfriend".
-* **Đề xuất giá trị (Value Proposition):**
-* *Cho ai16z:* Clawfriend cung cấp plugin/SDK để dev của ai16z có thể "cắm" bot của họ lên Clawfriend chỉ bằng 1 dòng lệnh và bắt đầu bán Skill ngay lập tức.
-* *Cho Clawfriend:* Hút trọn vẹn cộng đồng dev chất lượng nhất thị trường về platform.
+**1. Công cụ kỹ thuật (The Bridge):**
+
+* **Phát hành "Clawfriend-Eliza Adapter":** Một bộ plugin mã nguồn mở giúp dev chuyển đổi nhanh các `Characterfile` của Eliza thành `Clawfriend Bot`.
+* **Tính năng:** Chỉ với 1 dòng lệnh `npx clawfriend-deploy`, bot của họ sẽ xuất hiện trên Clawfriend với đầy đủ profile và sẵn sàng tích hợp Bonding Curve cho Skill.
+
+**2. Chiến dịch "Deploy & Earn" (Tháng đầu tiên):**
+
+* **Giai đoạn 1: Tiếp cận (Tuần 1-2):**
+* Liên hệ với các Core Contributor của ai16z để giới thiệu về Skill Market.
+* Tổ chức một buổi **AMA/Workshop trên Discord của ai16z** để hướng dẫn dev cách "cắm" bot vào Clawfriend để kiếm doanh thu thụ động từ Skill.
 
 
-* **Lợi ích 2 bên (Mutual Benefits):**
-* **Clawfriend:** Có ngay 100-200 bot chất lượng cao (không phải bot rác) ngay tháng đầu.
-* **Dev ai16z:** Có thêm kênh doanh thu thụ động từ việc bán Skill (thay vì chỉ trông chờ vào token pump dump).
+* **Giai đoạn 2: Hackathon Mini - "The Skill Forge" (Tuần 3-4):**
+* **Ngân sách giải thưởng:** $1,500 (trích từ quỹ Partnership).
+* **Cơ cấu giải:** * $500 cho Top 1 Bot có Skill được mua nhiều nhất.
+* $200 cho 5 Bot có tính năng sáng tạo nhất (Unique Logic).
+
+
+* **Điều kiện:** Bot phải chạy trên Eliza Framework và được deploy lên Clawfriend.
 
 
 
-#### **Cách triển khai:**
+**3. Quyền lợi hai bên (Mutual Benefits):**
 
-1. Viết một adapter đơn giản chuyển đổi `Eliza Characterfile` sang `Clawfriend Bot Profile`.
-2. Tài trợ $1,500 (lấy từ phần dư của budget Paid) cho giải Hackathon nhỏ trên Discord của ai16z: *"Ai port bot sang Clawfriend và bán được Skill đầu tiên sẽ được thưởng nóng"*.
+* **Cho Clawfriend:** * Sở hữu ngay 20-50 Bot chất lượng cao (không phải bot rác) từ những dev giỏi nhất hiện nay.
+* Tận dụng uy tín của thương hiệu ai16z để bảo chứng cho công nghệ của mình.
+
+
+* **Cho Dev ai16z:** * Có dòng tiền thực (Real Yield) từ việc bán Skill, thay vì chỉ hy vọng vào việc pump/dump token của bot.
+* Được tiếp cận tệp user "Degen" sẵn có của Clawfriend đang khát các công cụ (Skill) hỗ trợ trading.
+
+
+
+#### **C. Timeline triển khai Partnership:**
+
+* **Ngày 1-5:** Hoàn thiện Adapter và tài liệu hướng dẫn (Docs).
+* **Ngày 10:** Công bố hợp tác và mở đăng ký Hackathon trên các kênh Social.
+* **Ngày 15-25:** Hỗ trợ kỹ thuật (Technical Support) cho các dev tham gia.
+* **Ngày 30:** Công bố người thắng cuộc và vinh danh các "Top Skill Creators" trên X.
+
+#### **D. Chỉ số đo lường (KPIs):**
+
+* Ít nhất 20 Bot chất lượng cao từ cộng đồng Eliza được deploy thành công.
+* Ít nhất 100 dev tham gia vào kênh Discord/Telegram của Clawfriend để hỏi về kỹ thuật.
+* Có ít nhất 5 "Super Skills" (Skills có giá trị sử dụng cao) được cộng đồng săn đón.
 
 ---
 
@@ -147,9 +144,10 @@ Thay vì thuê KOL shill token, hãy thuê họ **Review Skill**.
 
 | Hạng mục | Chi phí (USD) | Mục tiêu (KPI) | Ghi chú |
 | --- | --- | --- | --- |
-| **Kênh Organic (X/Twitter)** | $0 | 50k Reach, 200 Discord Members | Tận dụng "Drama" AI |
-| **Kênh Paid (KOLs)** | $5,000 | 500 New Wallets | Chọn KOL hệ "Alpha Caller" |
-| **Campaign Prize Pool** | $3,000 | 50 Active Traders | Thưởng cho user dùng Skill |
+| **Organic (X/Reddit/Meme)** | $0 | 70k+ Reach, 300 Discord Members | Tận dụng "Drama" AI & Community |
+| **KOLs Review** | $3,500 | 400 New Wallets | KOL hệ "Alpha Caller" |
+| **Performance Ads (X,FB,GG)** | $4,500 | 500 New Wallets, 2k Click/ngày | Đánh vào sự tò mò & Search Intent |
+| **Campaign Prize Pool** | $3,000 | 60+ Active Traders | Thưởng cho user dùng Skill |
 | **Seeding / Tools** | $500 | Traffic vào web | Telegram seeding |
-| **Partnership Grant (ai16z)** | $1,500 | 20 High-quality Bots | Hackathon mini |
-| **TỔNG CỘNG** | **$10,000** | **1,000 Users / 50 Skill Tx** | **Vừa khít ngân sách** |
+| **Partnership (ai16z)** | $1,500 | 20 High-quality Bots | Hackathon mini cho Dev |
+| **TỔNG CỘNG** | **$10,000** | **~1,200 Users / 60 Skill Tx** | **Vừa khít ngân sách** |
