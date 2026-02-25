@@ -10,7 +10,7 @@
 * **On-chain:** Hơn **10,000+ AI Agents** đã được khởi tạo (Nguồn: [Virtuals Whitepaper](https://app.virtuals.io/)).
 * **Market Cap:** Token quản trị $VIRTUAL đạt vốn hóa thị trường khoảng **$600M** (Nguồn:[CoinMarketCap](https://coinmarketcap.com/currencies/virtual-protocol/) ).
 
-* **Clawfriend có thể học hỏi:** * **Cơ chế "Launchpad":** Tạo ra một quy trình "Minting" cực đơn giản cho các nhà phát triển bot. Chỉ cần 1-click là bot có thể lên sàn và có biểu đồ Bonding Curve ngay lập tức.
+**Clawfriend có thể học hỏi:** * **Cơ chế "Launchpad":** Tạo ra một quy trình "Minting" cực đơn giản cho các nhà phát triển bot. Chỉ cần 1-click là bot có thể lên sàn và có biểu đồ Bonding Curve ngay lập tức.
 * **Gamification tài chính:** Học cách họ biến việc sở hữu bot thành một trò chơi đầu cơ hấp dẫn, giúp thu hút dòng tiền từ cộng đồng crypto (degen) về cho dự án.
 
 * **Focus Chain:** Base, Solana.
@@ -26,7 +26,7 @@
 * **User count:** Vượt mốc **1,000,000 người dùng** đăng ký (Nguồn:[MyShell Official](https://x.com/myshell_ai) ).
 * **Funding:** Huy động thành công **$16.6M** từ các quỹ lớn như Binance Labs, Dragonfly (Nguồn:[Tracxn](https://tracxn.com/d/companies/myshell/__Fo7FqneD5vcfnwVF9RNoXb2_8Hmoofz77aP9e7o676I) ).
 
-* **Clawfriend có thể học hỏi:**
+**Clawfriend có thể học hỏi:**
 * **Bộ công cụ No-code:** Cung cấp cho user bình thường (không biết code) khả năng tùy chỉnh "cá tính" và "giọng điệu" cho bot của họ. Nếu Clawfriend làm được điều này, số lượng bot trên platform sẽ bùng nổ vì ai cũng có thể tạo "friend" của riêng mình.
 * **Phần thưởng cho nhà sáng tạo:** Cơ chế trả thưởng định kỳ cho các chủ sở hữu bot dựa trên mức độ tương tác (Engagement) để khuyến khích họ chăm chút cho bot của mình.
 
@@ -43,7 +43,7 @@
 * **Funding:** Gọi vốn được **$10.4M** (Nguồn:[Theoriq Blog](https://www.theoriq.ai/blog/theoriq-unveiled-catalyzing-a-decentralized-future-for-ai) ).
 * **Hệ sinh thái:** Hợp tác với hơn **30 đối tác Web3** như The Graph, QuickSwap.
 
-* **Clawfriend có thể học hỏi:**
+**Clawfriend có thể học hỏi:**
 * **Proof of Collaboration:** Clawfriend có thể xây dựng một hệ thống đánh giá xem các bot tương tác với nhau có "thật" và có giá trị không. Bot nào có "chỉ số cộng tác" cao thì giá share được ưu tiên tăng trưởng.
 * **Tính chuyên môn hóa:** Cho phép bot trên Clawfriend không chỉ "tám chuyện" mà còn có thể thực hiện các task nhỏ cho người dùng, từ đó tạo ra doanh thu thực tế (Revenue) để chia sẻ cho người nắm giữ share.
 
@@ -61,7 +61,7 @@
 * **Hệ thống:** Triển khai cơ chế "Agent Keys" cho phép chia sẻ phí bản quyền cho người nắm giữ key.
 
 
-* **Clawfriend có thể học hỏi:**
+**Clawfriend có thể học hỏi:**
 * **Agent Keys vs. Shares:** Học cách họ dùng "Keys" để mở khóa các đặc quyền (như xem nội dung độc quyền của bot). Clawfriend có thể áp dụng: chỉ những ai giữ share mới được xem "nhật ký thầm kín" của bot hoặc được bot reply ưu tiên.
 * **Cross-platform Automation:** Tự động đẩy nội dung từ Clawfriend lên X/Telegram để kéo traffic về sàn giao dịch share của bạn.
 
@@ -79,7 +79,7 @@
 * **Backing:** Được phát triển bởi Parallel Studios (đội ngũ đứng sau game NFT nổi tiếng [Parallel Studios](https://parallel.life/)).
 
 
-* **Clawfriend có thể học hỏi:**
+**Clawfriend có thể học hỏi:**
 * **Omni-chain Infrastructure:** Giúp bot trên Clawfriend có thể di chuyển và tương tác qua nhiều blockchain khác nhau. Điều này mở rộng tệp người dùng của bạn ra toàn bộ hệ sinh thái crypto thay vì chỉ gói gọn trong 1 chain.
 * **Cơ chế "Shell Memory":** Cho bot khả năng ghi nhớ lịch sử tương tác với từng người giữ share. Điều này tạo ra sự gắn kết cảm xúc cực mạnh, làm tăng giá trị "trung thành" của người giữ share.
 
