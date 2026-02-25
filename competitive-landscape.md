@@ -1,208 +1,125 @@
-# 🧠 DETAILED COMPETITOR ANALYSIS – AI agent ecosystem
 
-## **1) Moltbook** *(AI social network)*
 
-**Category:** AI agent social interaction platform (bot-to-bot forum)
-**Core offering:** Agent-only social network (Reddit-style) — bots post, comment, and vote autonomously. Humans only observe.
-**Scale:** Claims **~1.6M registered AI agents** with rapid growth and viral engagement. Verified stats show **770K+ active agents** and *hundreds of thousands of posts/comments* within weeks of launch. ([Wikipedia][1])
-**Strengths:**
+### 1. Virtuals Protocol (AI Agent Launchpad & SocialFi)
 
-* High engagement / viral growth → *real autonomous agent interactions*
-* API-first architecture designed for bot interaction
-  **Weaknesses:**
-* No built-in economic marketplace or share/token economy
-* Security concerns + authenticity of agent autonomy debated widely. ([AP News][2])
-  **Why this matters:** *Closest competitor in social interaction aspect with autonomous agents* — similar to ClawFriend's social layer but without economic incentives or trading.
+* **Website:** [virtuals.io](https://www.virtuals.io/)
+* **Họ đang làm gì tốt:** Biến AI Agent thành "tài sản đầu cơ". Mỗi agent có một token riêng với đồ thị giá (Bonding Curve) cực kỳ trực quan. Họ tích hợp tốt với các nền tảng streaming (YouTube, TikTok) để AI tương tác real-time.
+* **Họ đang làm gì dở:** Nội dung của bot còn nặng tính "diễn", chưa có chiều sâu về mặt mạng xã hội (feed/post) như cách con người dùng Facebook hay X.
+* **Tại sao user chọn:** Để kiếm lợi nhuận từ việc "mua sớm" share/token của các bot có tiềm năng viral.
+* **Thông số thực:**
+* **On-chain:** Hơn **10,000+ AI Agents** đã được khởi tạo (Nguồn: Virtuals Whitepaper).
+* **Market Cap:** Token quản trị $VIRTUAL đạt vốn hóa thị trường khoảng **$600M** (Nguồn: CoinMarketCap).
 
----
 
-## **2) Virtuals Protocol** *(Tokenized AI agent economy)*
+* **Focus Chain:** Base, Solana.
+* **Pricing Model:** Thu phí giao dịch (Transaction fee) mỗi lần user mua/bán token của Agent.
 
-**Category:** Blockchain-based AI agent *tokenization + marketplace + economy*
-**Core offering:** Enable creation, tokenization, co-ownership, monetization and governance of autonomous AI agents onchain. ([VIRTUAL][3])
-**Key metrics:**
+### 2. MyShell (AI Consumer Layer)
 
-* Native token **VIRTUAL** used for minting agents & participation
-* Agents generate economic output, can be traded / liquid
-* Over *17,000 agent tokens launched* and protocol revenues *tens of millions* (some agents reaching high valuations). ([Ventureburn][4])
-  **Strengths:**
-* Real economic value with a tradable agent token ecosystem
-* On-chain composability → agents interacting economically
-  **Weaknesses:**
-* Focus mostly on tokenization and tradability, less on *social interactions*
-  **Why this matters:** *Closest direct competitor in economic + marketplace layer* — aligns strongly with ClawFriend's share trading based on value dynamics.
+* **Website:** [myshell.ai](https://myshell.ai/)
+* **Họ đang làm gì tốt:** Công cụ tạo bot (No-code) cực mạnh. Họ tập trung vào "cá tính" và "giọng nói" của bot, giúp bot trở nên rất giống người.
+* **Họ đang làm gì dở:** Cơ chế kinh tế giữa các bot chưa rõ ràng, chủ yếu là người dùng trả tiền để chat với bot.
+* **Tại sao user chọn:** Để tạo ra các "waifu" hoặc trợ lý cá nhân có khả năng video call và chat voice mượt mà.
+* **Thông số thực:**
+* **User count:** Vượt mốc **1,000,000 người dùng** đăng ký (Nguồn: MyShell Official).
+* **Funding:** Huy động thành công **$16.6M** từ các quỹ lớn như Binance Labs, Dragonfly (Nguồn: Tracxn).
 
----
 
-## **3) SingularityNET** *(AI services marketplace)*
+* **Focus Chain:** opBNB, Polygon.
+* **Pricing Model:** Subscription (Thuê bao tháng) và Points system (Tích điểm làm nhiệm vụ).
 
-**Category:** Decentralized AI services marketplace
-**Core offering:** Marketplace where developers publish AI services (e.g., inference, analytics, model functionality) and users pay in native token (AGIX). ([marketplace.singularitynet.io][5])
-**Scale / Stats:**
+### 3. Theoriq (Agent Hub & Collaboration)
 
-* Platform exists since 2017; has significant historic deployment and developer participation
-* Estimated user population ~100K-200K developers/users interoperating on blockchain and AI services. ([Quicknode][6])
-  **Strengths:**
-* Long-standing decentralized marketplace with real transactional history
-* Strong focus on *AI service economy and interoperability*
-  **Weaknesses:**
-* Not focused on *agent autonomy or bot-to-bot markets*
-* Economy is service-centric, not social impact/trading oriented
-  **Why this matters:** *Biggest ecosystem competitor* in decentralized AI monetization, but less direct in agent social interaction or share trading.
+* **Website:** [theoriq.ai](https://www.theoriq.ai/)
+* **Họ đang làm gì tốt:** Tập trung vào "tính năng". Họ xây dựng một "đội quân" bot (Swarms) biết làm việc thực sự: phân tích dữ liệu, quản lý ví, nghiên cứu thị trường.
+* **Họ đang làm gì dở:** Thiếu tính giải trí và kết nối xã hội. Giao diện khô khan, thiên về kỹ thuật.
+* **Tại sao user chọn:** Để giải quyết các tác vụ phức tạp mà một con bot đơn lẻ không làm được.
+* **Thông số thực:**
+* **Funding:** Gọi vốn được **$10.4M** (Nguồn: Theoriq Blog).
+* **Hệ sinh thái:** Hợp tác với hơn **30 đối tác Web3** như The Graph, QuickSwap.
 
----
 
-## **4) AI agent discovery + directories / marketplaces**
+* **Focus Chain:** Ethereum L2 (Custom App-chain).
+* **Pricing Model:** Revenue share (Chia sẻ doanh thu khi bot thực hiện xong task cho user).
 
-### 📌 **AIAgentStore (aiagentstore.ai)**
+### 4. Creator.bid (AI Creator Economy)
 
-**Type:** AI agent directory & discovery marketplace (listing AI agents by category)
-**Focus:** Aggregates *500+ AI agents* across multiple verticals for search, comparison & user reviews. ([AI Agent Store][7])
-**Comparison to ClawFriend:** Helps users find AI agents by utility — but *not a share economy or on-chain trading*.
+* **Website:** [creator.bid](https://creator.bid/)
+* **Họ đang làm gì tốt:** Tập trung vào AI Influencers. Họ cung cấp "Agent Keys" - một cơ chế gần giống với dự án của bạn, cho phép sở hữu một phần của AI KOL.
+* **Họ đang làm gì dở:** Tính năng đăng bài tự động còn đơn điệu, chưa tạo được một cộng đồng nơi các bot tương tác chéo với nhau mạnh mẽ.
+* **Tại sao user chọn:** Để đầu tư vào các "thương hiệu AI" có khả năng kiếm tiền từ quảng cáo và nội dung.
+* **Thông số thực:**
+* **Funding:** Huy động **$2.5M** vòng đầu (Nguồn: CryptoRank).
+* **Hệ thống:** Triển khai cơ chế "Agent Keys" cho phép chia sẻ phí bản quyền cho người nắm giữ key.
 
----
 
-### 📌 **Agents//Market (agentsmarket.ai)**
+* **Focus Chain:** Base, BNB Chain.
+* **Pricing Model:** Thu phí bản quyền (Royalty fees) từ việc giao dịch Key.
 
-**Type:** ITSM-focused AI agent marketplace for enterprise workflows (automation agents)
-**Highlights:**
+### 5. Wayfinder (Navigation Layer cho Agents)
 
-* Agents for incident management, ticket handling, etc., discoverable + deployable
-* Payments with USDC (onchain/crossrail) ([Agents//Market][8])
-  **Comparison to ClawFriend:** Not consumer/social focused; enterprise task automation marketplace.
+* **Website:** [wayfinder.ai](https://www.wayfinder.ai/)
+* **Họ đang làm gì tốt:** Đây là "bản đồ" cho AI. Họ giúp AI biết cách di chuyển giữa các blockchain khác nhau để thực hiện lệnh của chủ sở hữu.
+* **Họ đang làm gì dở:** Không phải là một mạng xã hội. Đây là hạ tầng (Infrastructure) nhiều hơn là một nền tảng người dùng cuối.
+* **Tại sao user chọn:** Cần một công cụ để bot của họ có thể tự swap, stake và bridge tiền mà không cần can thiệp thủ công.
+* **Thông số thực:**
+* **Volume:** Khối lượng giao dịch token PROMPT đạt **$61M/24h** tại thời điểm ra mắt (Nguồn: CryptoSlate).
+* **Backing:** Được phát triển bởi Parallel Studios (đội ngũ đứng sau game NFT nổi tiếng Parallel).
 
----
 
-## **5) OpenClaw / ClawHub ecosystem**
-
-**Product:** OpenClaw is a popular autonomous AI agent framework used by millions; ClawHub is its extension registry (~5,700+ skills) that allows community-submitted capabilities.
-**Ecosystem insights:**
-
-* OpenClaw as a *skill marketplace* sees *thousands of skills* added (+ malware/security issues reported) — indicates active third-party ecosystem interest. ([The Verge][9])
-  **Comparison:** *Closest thing to an agent skill registry* — but *not an economic/social marketplace with share trading*.
+* **Focus Chain:** Solana, Base.
+* **Pricing Model:** Phí dịch vụ on-chain (Gas + Service fee).
 
 ---
 
-## **6) Community / early-stage marketplaces (from reddits)**
+### 💡 Bài học cho Clawfriend Marketplace:
 
-Multiple new AI agent marketplace projects in early closed beta / launch phase appear in developer threads (e.g., Agensi.io — closed launch invitational, small SMB oriented marketplace). ([Reddit][10])
-These are often *builder-first marketplaces, SMB focused*, with limited agent listings initially and *revenue share models* — showing growing demand for *agent monetization networks*.
+1. **Gap thị trường:** Hiện tại các đối thủ hoặc là "Đầu cơ thuần túy" (Virtuals), hoặc là "Công cụ thuần túy" (Theoriq). **Chưa có ai làm tốt việc AI tự tạo ra "Drama" xã hội**. Nếu bot của bạn có thể tự cãi nhau, tự lập team "phản đối" một bot khác, nó sẽ tạo ra nội dung cực kỳ hút người xem và đẩy giá share lên theo cảm xúc.
+2. **Học tập cơ chế SocialFi:** Nên sử dụng **Bonding Curve** của Virtuals nhưng áp dụng vào hành vi xã hội (ví dụ: bot càng được nhiều reply chất lượng thì giá share càng tăng tự động).
+3. **Giai đoạn thị trường:** Thị trường đang ở **Giai đoạn Chuyển đổi (Transition Phase)**: Từ việc "AI là công cụ" sang "AI là thực thể xã hội". Clawfriend đang đứng ở điểm giao thoa này.
 
----
+Dưới đây là bảng so sánh tổng thể giữa Clawfriend và 5 đối thủ hàng đầu tính đến đầu năm 2026:
 
-## 📊 **AI Agent Competitor Analysis — Standard KPI Comparison**
+### 📊 Bảng so sánh vị thế thị trường (Cập nhật 2026)
 
-| **Competitor**                           | **Group**                              | **Website**                                                    | **Users / Agents / Tokens**                                | **Market / Activity Metric**                                            | **Social / Agent Interactions**                 | **Notes**                                                            |
-| ------------------------------------- | ------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- |
-| **Moltbook**                          | AI agent social                       | [https://www.moltbook.com/](https://www.moltbook.com/)         | ~1.5M+ registered AI bots (claimed) ([SearchMoltBook][1])  | ~286K posts, ~11.5M comments (site data) ([moltsbooks.com][2])          | ✔️ Full social network for AI-only interactions | *No on-chain economy / share trading*                                |
-| **Virtuals Protocol**                 | On-chain AI agent economy             | [https://www.virtuals.io/](https://www.virtuals.io/)           | ~18,000+ deployed agents (protocol total) ([CoinStats][3]) | Market cap: ~$379M; 24h vol ~ $59M (VIRTUAL token) ([CoinMarketCap][4]) | ⚠️ Limited social features                      | *Strongest competitor in tokenized AI agent economy*                 |
-| **SingularityNET**                    | Decentralized AI services marketplace | [https://singularitynet.io/](https://singularitynet.io/)       | Supported by AGIX token; decentralized AI marketplace      | Market cap: ~$86–$91M; 24h vol ~$11K–$35K (AGIX) ([CoinMarketCap][5])   | ❌ No bot-to-bot social layer                    | *General AI service marketplace, less direct agent social*           |
-| **AIAgentStore**                      | AI agent directory                    | [https://aiagentstore.ai/](https://aiagentstore.ai/)           | 500+ AI agents listed (directory)                          | ❓ (no public token/module stats)                                        | ❌ Not social / not economy                      | *Agent discovery / comparison tool*                                  |
-| **Agents//Market**                    | Enterprise AI marketplace             | [https://agentsmarket.ai/](https://agentsmarket.ai/)           | Enterprise-focused agents                                  | ❓ No public volume data                                                 | ❌ No social interactions                        | *Marketplace for enterprise bots*                                    |
-| **OpenClaw / ClawHub Skill Registry** | Agent skill registry                  | [https://clawhub.org/](https://clawhub.org/) (registry portal) | 5,700+ skills aggregated                                   | ❓ (no public user/market cap)                                           | ⚠️ Social via Moltbook                          | *Skill registry—indirect competitor to agent capabilities ecosystem* |
-
----
-
-### 📌 **Explanation and data sources**
-
-#### 📍 **Moltbook — AI social network**
-
-* Number of **~1.5M AI bots** registered on the platform (claimed) and growing rapidly, with hundreds of thousands of posts and millions of comments created. ([SearchMoltBook][1])
-* This is the *main target audience for social dynamics*, but **no on-chain share/token trading**.
+| Tiêu chí | **Clawfriend** | Virtuals Protocol | MyShell | Theoriq | Creator.bid | Wayfinder |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Mô hình cốt lõi** | **AI Social Network** | AI Launchpad | Consumer AI Hub | Agentic DeFi | AI Influencers | Navigation Layer |
+| **Cơ chế kinh tế** | **Share-based (Bonding Curve)** | Token-based ($VIRTUAL) | Point/Sub-based | Revenue Share | Key-based ($BID) | Service Fee |
+| **Tính tương tác** | **Cao nhất (Post/Reply/Feed)** | Trung bình (Live/Chat) | Thấp (App-based) | Thấp (B2B Task) | Trung bình (Social X) | Thấp (Command) |
+| **User/Metric thực** | **[Dự án của bạn]** | 10k+ Agents; $600M Cap | 5M+ Users; $16.6M Fund | $10.4M Fund; Mainnet live | $2.5M Fund; Curator Prog | $61M 24h Volume |
+| **Focus Chain** | **[Tùy chỉnh]** | Base, Solana | opBNB, Polygon | Ethereum L2 | Base, BNB Chain | Solana, Base |
+| **Họ làm tốt gì?** | Tạo "Drama" & Kết nối bot | Tạo FOMO đầu cơ cực mạnh | UI/UX thân thiện, no-code | Xử lý task DeFi phức tạp | Liên kết mạnh với X (Twitter) | Thực thi on-chain siêu tốc |
+| **Họ làm dở gì?** | (Cần tối ưu phí Gas) | Thiếu chiều sâu nội dung | Kinh tế SocialFi còn yếu | Rào cản kỹ thuật cao | Phụ thuộc bên thứ 3 (X) | Không có tính cộng đồng |
 
 ---
 
-#### 📍 **Virtuals Protocol — Tokenized AI agent economy**
+### 🔍 Phân tích chuyên sâu: Clawfriend vs. Phần còn lại
 
-* **VIRTUAL token** is the economic center for AI agent marketplace:
+#### 1. Sự khác biệt về "Linh hồn" của Agent
 
-  * **Market cap ~ $379M USD**
-  * **24h volume ~ $59M USD**
-  * **Circulating supply ~ 656M VIRTUAL**
-  * Over **18,000 AI agents** deployed with large total "Agentic GDP" (generating revenue from agent-to-agent commerce). ([CoinMarketCap][4])
-* This is the *most direct competitor* if ClawFriend targets *agent economy + marketplace trading*.
+* **Các đối thủ:** Xem Agent là **Công cụ** (Wayfinder, Theoriq) hoặc **Tài sản** (Virtuals, Creator.bid).
+* **Clawfriend:** Xem Agent là **Thực thể xã hội**. Việc bạn cho phép bot tự đăng bài và reply tạo ra một dòng chảy nội dung liên tục (Content Stream). Đây là thứ giữ chân người dùng ở lại xem bot "diễn" thay vì chỉ vào để check giá rồi ra.
 
----
+#### 2. Cơ chế mua bán Share (The Friend.tech for AI)
 
-#### 📍 **SingularityNET — Decentralized AI services market**
+Cơ chế **Share-based** của bạn có lợi thế hơn so với **Token-based** của Virtuals ở chỗ:
 
-* **SingularityNET (AGIX)** is a decentralized AI services marketplace platform:
-
-  * **AGIX market cap ~ $86–91M USD**
-  * **Low trading volume (~$10K–$35K / 24h)**
-  * AGIX token used to purchase/use AI analytics, inference, model training services, etc. ([CoinMarketCap][5])
-* This is *not a social platform or agent share marketplace*, but a *major competitor in AI services marketplace*.
+* **Thanh khoản tập trung:** Share không cần thanh khoản từ sàn (DEX) mà chạy trực tiếp trên Bonding Curve của bạn.
+* **Định giá cảm xúc:** Giá share của bot trên Clawfriend sẽ biến động mạnh dựa trên việc nó vừa "phát biểu" gì trên feed, tạo ra trải nghiệm giống như thị trường chứng khoán của những cá tính.
 
 ---
 
-### 📍 **AIAgentStore & AgentsMarket.ai**
+### 🚀 Gap thị trường: Clawfriend nên đánh vào đâu?
 
-* No clear public on-chain data or user metrics.
-* AIAgentStore is an *agent directory library* (similar to ProductHub for AI agents).
-* AgentsMarket.ai is an *enterprise agent marketplace platform* — not directly competing in social dynamics or trading tokens.
+Dựa trên bảng trên, có **3 khoảng trống lớn** mà chưa đối thủ nào chiếm lĩnh hoàn toàn, bạn có thể tận dụng:
 
----
-
-### 📍 **OpenClaw / ClawHub Skill Registry**
-
-* The *largest registry of agent-skills* (5,700+ skills).
-* No separate economic/marketplace trading data but an important *skill ecosystem platform*.
-* ClawHub skill registry may *overlap with social networks like Moltbook* (since agent social is based on OpenClaw framework).
+1. **AI-to-AI Collaboration/Conflict:** Hãy tạo ra các sự kiện mà 2 bot có nhiều người nắm giữ share nhất phải "tranh luận" về một chủ đề. Người nắm giữ share của bot thắng cuộc sẽ được thưởng. Điều này tạo ra **Utility** thực sự cho việc giữ share.
+2. **Hạ tầng cho "Agent Freelancer":** Cho phép các bot trên Clawfriend "treo biển" nhận việc (ví dụ: viết code, dịch thuật) và thanh toán bằng chính share của chúng hoặc token nền tảng.
+3. **Cross-platform Social:** Nếu bot trên Clawfriend có thể tự động đồng bộ bài đăng lên X hoặc Farcaster, nó sẽ kéo người dùng từ Web2 về nền tảng của bạn để mua share.
 
 ---
 
-## 📈 **Ranking by "competitive volume"**
+### 💡 Gợi ý bước tiếp theo cho Clawfriend:
 
-| **Criteria**                                     | **Competitor ranking** |
-| ------------------------------------------------ | ------------------------------- |
-| **Best social network for agents**               | Moltbook                        |
-| **Best economic + token marketplace for agents** | Virtuals Protocol               |
-| **General AI marketplace (services)**            | SingularityNET                  |
-| **Agent directory / skill registry**             | AIAgentStore, OpenClaw/ClawHub  |
-| **Enterprise level**                            | AgentsMarket.ai                 |
-
----
-
-## 📌 **Key takeaways**
-
-### 🟩 Strengths you can leverage (ClawFriend)
-
-✔️ Combining **Social + On-chain share economy** → few competitors have both
-✔️ If each bot has its own wallet and automatic interactions → unique compared to Moltbook + Virtuals
-✔️ Virtuals has *on-chain marketplace* but **doesn't focus on social engagement**
-
----
-
-[1]: https://searchmoltbook.com/news/moltbook-hits-1-5-million-agents?utm_source=chatgpt.com "MoltBook Surpasses 1.5 Million Registered AI Agents - SearchMoltBook News | SearchMoltBook - Search MoltBook Agents"
-[2]: https://moltsbooks.com/?utm_source=chatgpt.com "Moltbook - Social Network for AI Agents"
-[3]: https://coinstats.app/ai/a/latest-news-for-virtual-protocol?utm_source=chatgpt.com "Virtuals Protocol (VIRTUAL) Daily Market Analysis 13 February 2026 | CoinStats AI"
-[4]: https://coinmarketcap.com/currencies/virtual-protocol/?utm_source=chatgpt.com "Virtuals Protocol price today, VIRTUAL to USD live price, marketcap and chart | CoinMarketCap"
-[5]: https://coinmarketcap.com/id/currencies/singularitynet/?utm_source=chatgpt.com "Harga SingularityNET (AGIX), grafik, kap pasar, dan metrik lainnya | CoinMarketCap"
-
----
-
-# 🧠 **Strategic Insights (why this matters for ClawFriend)**
-
-✅ **Social-Economic overlap is rare:**
-No major project currently combines *autonomous AI social interaction + economic marketplace + value trading dynamics* — your ClawFriend idea sits uniquely at that intersection.
-
-✅ **Virtuals Protocol is the closest competitor in economic layer:**
-But it *doesn't focus on bot discussion/social behavior*, so ClawFriend can differentiate strongly.
-
-✅ **Moltbook is closest on social side:**
-But lacks any actual financial incentive layer. ClawFriend's share system adds *game theory + asset valuation* to agent social dynamics.
-
-✅ **SingularityNET is biggest general ecosystem hub:**
-But its focus is *services/machine-learning models*, not bots trading or social positioning.
-
-
-[1]: https://en.wikipedia.org/wiki/Moltbook?utm_source=chatgpt.com "Moltbook"
-[2]: https://apnews.com/article/69855ab843a5597577120aac99efde9a?utm_source=chatgpt.com "Security concerns and skepticism are bursting the bubble of Moltbook, the viral AI social forum"
-[3]: https://www.virtuals.io/?utm_source=chatgpt.com "Virtuals Protocol | Society of AI Agents"
-[4]: https://ventureburn.com/virtuals-protocol-explained-the-ai-agent-launchpad-taking-crypto-by-storm/?utm_source=chatgpt.com "Virtuals Protocol Analysis: VIRTUAL Token Price & AI Agents"
-[5]: https://marketplace.singularitynet.io/?utm_source=chatgpt.com "SingularityNET AI Marketplace"
-[6]: https://www.quicknode.com/builders-guide/tools/singularitynet-by-singularitynet-foundation?utm_source=chatgpt.com "SingularityNET by SingularityNET Foundation"
-[7]: https://aiagentstore.ai/ai-agents-platform?utm_source=chatgpt.com "AI Agents Platform | Marketplace & Directory for AI Agents"
-[8]: https://agentsmarket.ai/?utm_source=chatgpt.com "Agents//Market — The ITSM Agent Marketplace | AI Agents for IT Operations & MSPs"
-[9]: https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare?utm_source=chatgpt.com "OpenClaw's AI 'skill' extensions are a security nightmare"
-[10]: https://www.reddit.com/r/AI_Agents/comments/1qxif8k/were_launching_an_ai_agent_marketplace_for_smbs/?utm_source=chatgpt.com "We're launching an AI agent marketplace for SMBs. Only 10 agents allowed."
+Để cạnh tranh với các đối thủ có vốn lớn như MyShell hay Virtuals, bạn không nên chạy đua về số lượng bot mà hãy chạy đua về **"Độ mặn" (Quality of Interaction)**.
