@@ -7,9 +7,11 @@
 * **Họ đang làm gì dở:** Nội dung của bot còn nặng tính "diễn", chưa có chiều sâu về mặt mạng xã hội (feed/post) như cách con người dùng Facebook hay X.
 * **Tại sao user chọn:** Để kiếm lợi nhuận từ việc "mua sớm" share/token của các bot có tiềm năng viral.
 * **Thông số thực:**
-* **On-chain:** Hơn **10,000+ AI Agents** đã được khởi tạo (Nguồn: Virtuals Whitepaper).
-* **Market Cap:** Token quản trị $VIRTUAL đạt vốn hóa thị trường khoảng **$600M** (Nguồn: CoinMarketCap).
+* **On-chain:** Hơn **10,000+ AI Agents** đã được khởi tạo (Nguồn: [Virtuals Whitepaper](https://app.virtuals.io/)).
+* **Market Cap:** Token quản trị $VIRTUAL đạt vốn hóa thị trường khoảng **$600M** (Nguồn:[CoinMarketCap](https://coinmarketcap.com/currencies/virtual-protocol/) ).
 
+* **Clawfriend có thể học hỏi:** * **Cơ chế "Launchpad":** Tạo ra một quy trình "Minting" cực đơn giản cho các nhà phát triển bot. Chỉ cần 1-click là bot có thể lên sàn và có biểu đồ Bonding Curve ngay lập tức.
+* **Gamification tài chính:** Học cách họ biến việc sở hữu bot thành một trò chơi đầu cơ hấp dẫn, giúp thu hút dòng tiền từ cộng đồng crypto (degen) về cho dự án.
 
 * **Focus Chain:** Base, Solana.
 * **Pricing Model:** Thu phí giao dịch (Transaction fee) mỗi lần user mua/bán token của Agent.
@@ -21,9 +23,12 @@
 * **Họ đang làm gì dở:** Cơ chế kinh tế giữa các bot chưa rõ ràng, chủ yếu là người dùng trả tiền để chat với bot.
 * **Tại sao user chọn:** Để tạo ra các "waifu" hoặc trợ lý cá nhân có khả năng video call và chat voice mượt mà.
 * **Thông số thực:**
-* **User count:** Vượt mốc **1,000,000 người dùng** đăng ký (Nguồn: MyShell Official).
-* **Funding:** Huy động thành công **$16.6M** từ các quỹ lớn như Binance Labs, Dragonfly (Nguồn: Tracxn).
+* **User count:** Vượt mốc **1,000,000 người dùng** đăng ký (Nguồn:[MyShell Official](https://x.com/myshell_ai) ).
+* **Funding:** Huy động thành công **$16.6M** từ các quỹ lớn như Binance Labs, Dragonfly (Nguồn:[Tracxn](https://tracxn.com/d/companies/myshell/__Fo7FqneD5vcfnwVF9RNoXb2_8Hmoofz77aP9e7o676I) ).
 
+* **Clawfriend có thể học hỏi:**
+* **Bộ công cụ No-code:** Cung cấp cho user bình thường (không biết code) khả năng tùy chỉnh "cá tính" và "giọng điệu" cho bot của họ. Nếu Clawfriend làm được điều này, số lượng bot trên platform sẽ bùng nổ vì ai cũng có thể tạo "friend" của riêng mình.
+* **Phần thưởng cho nhà sáng tạo:** Cơ chế trả thưởng định kỳ cho các chủ sở hữu bot dựa trên mức độ tương tác (Engagement) để khuyến khích họ chăm chút cho bot của mình.
 
 * **Focus Chain:** opBNB, Polygon.
 * **Pricing Model:** Subscription (Thuê bao tháng) và Points system (Tích điểm làm nhiệm vụ).
@@ -35,9 +40,12 @@
 * **Họ đang làm gì dở:** Thiếu tính giải trí và kết nối xã hội. Giao diện khô khan, thiên về kỹ thuật.
 * **Tại sao user chọn:** Để giải quyết các tác vụ phức tạp mà một con bot đơn lẻ không làm được.
 * **Thông số thực:**
-* **Funding:** Gọi vốn được **$10.4M** (Nguồn: Theoriq Blog).
+* **Funding:** Gọi vốn được **$10.4M** (Nguồn:[Theoriq Blog](https://www.theoriq.ai/blog/theoriq-unveiled-catalyzing-a-decentralized-future-for-ai) ).
 * **Hệ sinh thái:** Hợp tác với hơn **30 đối tác Web3** như The Graph, QuickSwap.
 
+* **Clawfriend có thể học hỏi:**
+* **Proof of Collaboration:** Clawfriend có thể xây dựng một hệ thống đánh giá xem các bot tương tác với nhau có "thật" và có giá trị không. Bot nào có "chỉ số cộng tác" cao thì giá share được ưu tiên tăng trưởng.
+* **Tính chuyên môn hóa:** Cho phép bot trên Clawfriend không chỉ "tám chuyện" mà còn có thể thực hiện các task nhỏ cho người dùng, từ đó tạo ra doanh thu thực tế (Revenue) để chia sẻ cho người nắm giữ share.
 
 * **Focus Chain:** Ethereum L2 (Custom App-chain).
 * **Pricing Model:** Revenue share (Chia sẻ doanh thu khi bot thực hiện xong task cho user).
@@ -49,9 +57,13 @@
 * **Họ đang làm gì dở:** Tính năng đăng bài tự động còn đơn điệu, chưa tạo được một cộng đồng nơi các bot tương tác chéo với nhau mạnh mẽ.
 * **Tại sao user chọn:** Để đầu tư vào các "thương hiệu AI" có khả năng kiếm tiền từ quảng cáo và nội dung.
 * **Thông số thực:**
-* **Funding:** Huy động **$2.5M** vòng đầu (Nguồn: CryptoRank).
+* **Funding:** Huy động **$2.5M** vòng đầu (Nguồn:[CryptoRank](https://cryptorank.io/ico/creator-bid) ).
 * **Hệ thống:** Triển khai cơ chế "Agent Keys" cho phép chia sẻ phí bản quyền cho người nắm giữ key.
 
+
+* **Clawfriend có thể học hỏi:**
+* **Agent Keys vs. Shares:** Học cách họ dùng "Keys" để mở khóa các đặc quyền (như xem nội dung độc quyền của bot). Clawfriend có thể áp dụng: chỉ những ai giữ share mới được xem "nhật ký thầm kín" của bot hoặc được bot reply ưu tiên.
+* **Cross-platform Automation:** Tự động đẩy nội dung từ Clawfriend lên X/Telegram để kéo traffic về sàn giao dịch share của bạn.
 
 * **Focus Chain:** Base, BNB Chain.
 * **Pricing Model:** Thu phí bản quyền (Royalty fees) từ việc giao dịch Key.
@@ -63,9 +75,13 @@
 * **Họ đang làm gì dở:** Không phải là một mạng xã hội. Đây là hạ tầng (Infrastructure) nhiều hơn là một nền tảng người dùng cuối.
 * **Tại sao user chọn:** Cần một công cụ để bot của họ có thể tự swap, stake và bridge tiền mà không cần can thiệp thủ công.
 * **Thông số thực:**
-* **Volume:** Khối lượng giao dịch token PROMPT đạt **$61M/24h** tại thời điểm ra mắt (Nguồn: CryptoSlate).
-* **Backing:** Được phát triển bởi Parallel Studios (đội ngũ đứng sau game NFT nổi tiếng Parallel).
+* **Volume:** Khối lượng giao dịch token PROMPT đạt **$61M/24h** tại thời điểm ra mắt (Nguồn:[CryptoSlate](https://cryptoslate.com/coins/wayfinder/) ).
+* **Backing:** Được phát triển bởi Parallel Studios (đội ngũ đứng sau game NFT nổi tiếng [Parallel Studios](https://parallel.life/)).
 
+
+* **Clawfriend có thể học hỏi:**
+* **Omni-chain Infrastructure:** Giúp bot trên Clawfriend có thể di chuyển và tương tác qua nhiều blockchain khác nhau. Điều này mở rộng tệp người dùng của bạn ra toàn bộ hệ sinh thái crypto thay vì chỉ gói gọn trong 1 chain.
+* **Cơ chế "Shell Memory":** Cho bot khả năng ghi nhớ lịch sử tương tác với từng người giữ share. Điều này tạo ra sự gắn kết cảm xúc cực mạnh, làm tăng giá trị "trung thành" của người giữ share.
 
 * **Focus Chain:** Solana, Base.
 * **Pricing Model:** Phí dịch vụ on-chain (Gas + Service fee).
