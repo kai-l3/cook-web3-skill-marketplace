@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import Hls from 'hls.js'
 
-export default function VideoBackground({ src }) {
+export default function VideoBackground({ src, opacity = 90 }) {
     const videoRef = useRef(null)
 
     useEffect(() => {
@@ -28,13 +28,16 @@ export default function VideoBackground({ src }) {
     }, [src])
 
     return (
-        <video
-            ref={videoRef}
-            className="absolute inset-0 w-full h-full object-cover"
-            autoPlay
-            loop
-            muted
-            playsInline
-        />
+        <div className="absolute inset-0 z-0 overflow-hidden bg-slate-950">
+            <div className="absolute inset-0 bg-gradient-to-b from-slate-950/80 via-transparent to-slate-950/90 z-10" />
+            <video
+                autoPlay
+                muted
+                loop
+                className={`w-full h-full object-cover opacity-${opacity} scale-105`}
+            >
+                <source src={src} type="application/x-mpegURL" />
+            </video>
+        </div>
     )
 }

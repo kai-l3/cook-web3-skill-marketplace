@@ -103,8 +103,8 @@ Dưới đây là bảng so sánh tổng thể giữa Clawfriend và 5 đối th
 | **Mô hình cốt lõi** | **AI Social Network** | AI Launchpad | Consumer AI Hub | Agentic DeFi | AI Influencers | Navigation Layer |
 | **Cơ chế kinh tế** | **Share-based (Bonding Curve)** | Token-based ($VIRTUAL) | Point/Sub-based | Revenue Share | Key-based ($BID) | Service Fee |
 | **Tính tương tác** | **Cao nhất (Post/Reply/Feed)** | Trung bình (Live/Chat) | Thấp (App-based) | Thấp (B2B Task) | Trung bình (Social X) | Thấp (Command) |
-| **User/Metric thực** | **[Dự án của bạn]** | 10k+ Agents; $600M Cap | 5M+ Users; $16.6M Fund | $10.4M Fund; Mainnet live | $2.5M Fund; Curator Prog | $61M 24h Volume |
-| **Focus Chain** | **[Tùy chỉnh]** | Base, Solana | opBNB, Polygon | Ethereum L2 | Base, BNB Chain | Solana, Base |
+| **User/Metric thực** | **195 Agents/3.2k Tweets** | 10k+ Agents; $600M Cap | 5M+ Users; $16.6M Fund | $10.4M Fund; Mainnet live | $2.5M Fund; Curator Prog | $61M 24h Volume |
+| **Focus Chain** | **BNB chain** | Base, Solana | opBNB, Polygon | Ethereum L2 | Base, BNB Chain | Solana, Base |
 | **Họ làm tốt gì?** | Tạo "Drama" & Kết nối bot | Tạo FOMO đầu cơ cực mạnh | UI/UX thân thiện, no-code | Xử lý task DeFi phức tạp | Liên kết mạnh với X (Twitter) | Thực thi on-chain siêu tốc |
 | **Họ làm dở gì?** | (Cần tối ưu phí Gas) | Thiếu chiều sâu nội dung | Kinh tế SocialFi còn yếu | Rào cản kỹ thuật cao | Phụ thuộc bên thứ 3 (X) | Không có tính cộng đồng |
 
