@@ -129,12 +129,7 @@ Includes:
 
 ## 4️⃣ Presentation & Q&A (10%)
 
-* Slides summarizing insights
-* Explain skill selection logic
-* Defend distribution strategy
-* Answer questions
-
----
+Link: https://cosmic-pithivier-0e8cef.netlify.app/
 
 # 🧠 Strategic Focus
 
